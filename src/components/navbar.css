@@ -1,0 +1,18 @@
+.app_navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    border-bottom: var(--border);
+    padding: 0 15%;
+}
+
+.app_navbar-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    height: 60px;
+    border-bottom: var(--border);
+    padding: 0 15%;
+}
