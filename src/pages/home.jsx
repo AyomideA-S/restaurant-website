@@ -10,7 +10,7 @@ import Slot from '../components/Slot';
 
 const Home = () =>{
   return (
-    <div>
+    <div className='content'>
       <div>
         <Hero />
         <Categories />

@@ -13,13 +13,13 @@ export default function Footer() {
                         <div className="footer-categories-flex-to">
                             <div className="footer-cat-to">
                                 <h2>Contact</h2>
-                                <p>+234 889 422 56</p>
+                                <p>+234 889 422 0056</p>
                                 <p>thisiscool@gmail.com</p>
                             </div>
                             <div className="footer-cat-to">
                                 <h2>Address</h2>
                                 <p>No 26 Alafia Estate Orogun</p>
-                                <p>junction, Ibadan</p>
+                                <p>Junction, Ibadan</p>
                                 <p>Oyo State Nigeria</p>
                             </div>
                             <div className="footer-cat-to">
@@ -28,12 +28,12 @@ export default function Footer() {
                                     <input type="text" name="" id="" placeholder="Email address" />
                                     <input type="submit" value="Subscribe" className="submit-to"/>
                                 </form>
-                                <p className="small-to">subscrip now for top norch content that will blow your mind</p>
+                                <p className="small-to">Subscribe now for top notch content that will blow your mind!</p>
                             </div>
                         </div>
                     </div>
                     <hr/>
-                    <p className="align-to">Copyrigth  2020 <span className="paint-to">Thisiscool.com</span></p>
+                    <p className="align-to">Copyrigth 2022© <span className="paint-to">Side Hustle</span></p>
                 </div>
             </div>
                 

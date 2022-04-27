@@ -6,7 +6,7 @@ export default function Categories() {
             <div className="category-to section3-to">
                     <div className="container-to">
                         <div className="category-header-to">
-                            <h3>Categories</h3>
+                            <center><h3>Categories</h3></center>
                         </div>
                         <div className="category-flex-to">
                             <div className="category-box-to">

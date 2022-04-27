@@ -7,9 +7,9 @@ import Shawarma from '../images/shawarma.webp'
 
 const Product = () =>{
   return (
-    <div>
+    <div className='content'>
       <div className="answer-section-header-to">
-        <h1>Products</h1>
+        <center><h1>Products</h1></center>
       </div>
 
       <div className='box-flex-to container-to'>

@@ -10,7 +10,7 @@ import Sloted from '../components/Sloted'
 
 function Contact() {
     return (
-        <div>
+      <div className='content'>
           <Menu />
           <Contactuser />
 
