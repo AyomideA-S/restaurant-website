@@ -1,5 +1,4 @@
 import React from 'react';
-import Footer from '../components/Footer'
 import Card from '../components/Card'
 // import First from '../images/first.webp'
 // import Second from '../images/secod.jfif'
@@ -52,9 +51,6 @@ function Contact() {
             gerne = "fatasy"
             btn =  ".btn-fatasy"/>
           </div>
-          
-          <Footer />
-
         </div>
       );
 };
