@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/restaurant-website/static/css/main.e0dca4e5.css",
+    "main.js": "/restaurant-website/static/js/main.be77d011.js",
+    "static/media/shawarma.webp": "/restaurant-website/static/media/shawarma.5a0a39d55e4351d90297.webp",
+    "static/media/pie.webp": "/restaurant-website/static/media/pie.c025fe32c06c18784aac.webp",
+    "static/media/pizza.webp": "/restaurant-website/static/media/pizza.51363ce19d249312ea6a.webp",
+    "static/media/burger.webp": "/restaurant-website/static/media/burger.4b39dfdee49a6a2f14ab.webp",
+    "index.html": "/restaurant-website/index.html",
+    "main.e0dca4e5.css.map": "/restaurant-website/static/css/main.e0dca4e5.css.map",
+    "main.be77d011.js.map": "/restaurant-website/static/js/main.be77d011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dca4e5.css",
+    "static/js/main.be77d011.js"
+  ]
+}
