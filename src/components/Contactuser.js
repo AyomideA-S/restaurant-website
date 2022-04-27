@@ -14,27 +14,27 @@ export default function Menu() {
                                 <div className="first-form-to">
                                     <div className="field-to">
                                         <label for="Name">First Name</label>
-                                        <input type="text" name="" id="" placeholder="Text Feild"/>
+                                        <input type="text" name="" id="" placeholder="First Name"/>
                                     </div>
                                     <div className="field-to">
-                                        <label for="Name">First Name</label>
-                                        <input type="text" name="" id="" placeholder="Text Feild"/>
+                                        <label for="lastName">Last Name</label>
+                                        <input type="text" name="" id="" placeholder="Last Name"/>
                                     </div>
                                 </div>
                                 <div className="first-form-to">
                                     <div className="field-to">
-                                        <label for="Name">First Name</label>
-                                        <input type="text" name="" id="" placeholder="Text Feild"/>
+                                        <label for="address">Address</label>
+                                        <input type="text" name="" id="" placeholder="Physical Address"/>
                                     </div>
                                     <div className="field-to">
-                                        <label for="Name">First Name</label>
-                                        <input type="text" name="" id="" placeholder="Text Feild"/>
+                                        <label for="email">Email Address</label>
+                                        <input type="email" name="" id="" placeholder="johndoe@example.com"/>
                                     </div>
                                 </div>
                                 <div className="first-form-message-to">
                                     <div className="field-to">
-                                        <label for="Name">message</label>
-                                        <input type="message" name="" id="" placeholder="Text Feild"/>
+                                        <label for="Name">Message</label>
+                                        <input type="message" name="" id="" placeholder="Leave us a message..."/>
                                     </div>
                                 </div>
                                 <div className="submit-container-to">
