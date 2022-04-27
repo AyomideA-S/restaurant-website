@@ -477,7 +477,7 @@ width: 30%;
 
 .submit-container-to{
  display: flex;
- justify-content:end;
+ justify-content: flex-end;
 }
 /* styles*/
 

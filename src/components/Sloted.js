@@ -8,7 +8,7 @@ export default function Menu() {
                         <div className="review-box answer-box-to">
                             <div className="first-flex-review-to answer-flex-review-to">
                                     <h3>Space for your question is here paste the question ask for answer.</h3>
-                                    <a href="" className="btn-answer-to">p</a>
+                                    <a href="/" className="btn-answer-to">p</a>
 
                             </div>
 
@@ -19,7 +19,7 @@ export default function Menu() {
                                     <span>Name and Surname</span>
                                     <span>Customer</span>
                                 </div>
-                                <a href="" className="review-btn-to answer-btn-to">Answer Now</a>
+                                <a href="/" className="review-btn-to answer-btn-to">Answer Now</a>
                             </div>
                         </div>
                     </div>

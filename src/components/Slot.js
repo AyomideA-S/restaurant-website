@@ -29,7 +29,7 @@ export default function Slot() {
                                 <div className="btn-star-to"></div>
                                 <span>18/20/2022</span>
                             </div>
-                            <a href="" className="review-btn-to">Read All Review</a>
+                            <a href="/" className="review-btn-to">Read All Review</a>
                         </div>
                     </div>
                 </div>
